@@ -13,4 +13,4 @@ We need:
 -    (later) People who can create nice textures or know -FREE- ones
 -    All people who have suggestions
 
-Talk to us via IRC (Server: irc.pupskuchen.net; Channel: #zombies) or in-game!
+Talk to us via IRC or in-game!
