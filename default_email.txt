@@ -20,7 +20,7 @@ Of course that's a big project and nobody knows how far we can get. But it isn't
 To reach our goal everybody have to relicense their work or to multiple license their work. 
 And exactly that's what we ask YOU now: Are you up to relicense your awesome work to support a great game and the complete open source world?
 
-Your work we talk about is that folling stuff:
+Your work we talk about is that following stuff:
 [list all of the autors-non-free-content]
 
 Right now your content have .....following license(s)/is only under the law of copyright. 
