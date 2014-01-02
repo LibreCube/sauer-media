@@ -1,0 +1,45 @@
+Hello [name],
+
+we write you this lines because you have once created awesome stuff which makes it into the offical version of Cube 2: Sauerbraten.
+
+Cube 2: Sauerbaten is, as you may know, an open source game which isn't only free like free beer - the source code is also free like free-in-speech.
+
+So you are allowed to play the game for free, share the source code, modified it, share a modified version of the game and so on.
+But as you may now by yourself creating awesome stuff needs time, a lot of time and often money. To honor the creators of Sauerbraten you just need to attribute them
+whenever you share their work. That's all they want from you. (Sauerbraten is licensed under zlib)
+
+But a game isn't only made up of the technically source code. A game without content isn't a real game.
+And while the source code of the game is already completly free-in-speech, a lot of content is currently only free-to-play but not entire freely.
+
+That's the point you come in. We are very thankful to you that you have shared your work with us. But now we would like to see that you make your content free-in-speech too.
+
+So what is this all about?
+A fair question. We are a bunch of players who have the vision to make the whole game including it's content entire free-in-speech.
+Of course that's a big project and nobody knows how far we can get. But it isn't impossible - No, it's very possible.
+
+To reach our goal everybody have to relicense their work or to multiple license their work. 
+And exactly that's what we ask YOU now: Are you up to relicense your awesome work to support a great game and the complete open source world?
+
+Your work we talk about is that folling stuff:
+[list all of the autors-non-free-content]
+
+Right now your content have .....following license(s)/is only under the law of copyright. 
+Even your stuff is free-to-play it isn't free-in-speech (means: liberty) because the current terms of your work don't allowed it to [add explaination related to the current license].
+
+Licensing work is a very big topic. Perhaps you already familar with this topic and don't need longer explanations. But maybe you even know nothing about licenses.
+But this isn't a problem because if you want we can send you all information you need to make a decision: If you want to relicense your work and what license you want to choose.
+
+To give you few ideas of what licenses are really free-in-speech have a short look at the following: [add links to the pages]
+
+	- CC-BY 4.0
+	- CC-BY-SA 4.0
+	- GPLv2
+	- CC0
+	
+So whatever you want to know now, whatever you want to say to us don't hesitate one second and just drop us one line. 
+You can even try your luck and connect to our IRC channel (but we can't be all-the-day active there).
+
+So far: Very, very thank you for reading this all! 
+
+And in the believe that we can reach together something which is even greater than it is already:
+Have a nice day and see you soon!
